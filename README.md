@@ -23,6 +23,3 @@ On due date, you should present your project in class.
 4.	Presentation: 2 Marks
 
 
-Deliverable
-The proposal and report should be handed in printed format on their corresponded due dates.
-Compress you’re the project directory in zip format only and submit in Blackboard.
