@@ -1,5 +1,4 @@
 A Web / Enterprise Application
-
 1.	An admin account has following functionalities:
 a.	Able to add, edit, or delete rooms and their specifications
 b.	Able to gets various reports about the reserved rooms for specific range of dates, floor, and room price, etc.
