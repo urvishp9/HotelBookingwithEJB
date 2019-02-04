@@ -1,4 +1,3 @@
-
 A Web / Enterprise Application
 
 1.	An admin account has following functionalities:
@@ -21,5 +20,3 @@ On due date, you should present your project in class.
 2.	Correct Design: 4 Marks
 3.	Correct implementation: 3 Marks
 4.	Presentation: 2 Marks
-
-
